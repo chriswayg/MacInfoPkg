@@ -1,6 +1,8 @@
 MacInfoPkg
 ==========
 
+#### This fork includes a linux build of macserial (downlaodable from releases)
+
 [![Build Status](https://travis-ci.com/acidanthera/MacInfoPkg.svg?branch=master)](https://travis-ci.com/acidanthera/MacInfoPkg)
 
 Various information about Mac hardware used by multiple projects,
